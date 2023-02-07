@@ -1,0 +1,10 @@
+{
+  "inits.code": "Mã đối tượng",
+  "inits.name": "Tên đối tượng",
+  "inits.master.header":"",
+  "inits.master.title":"Đồng bộ dữ liệu",
+  "inits.button.init":"Đồng bộ dữ liệu",
+  "inits.initSuccess":"Đồng bộ dữ liệu thành công",
+  "inits.initError":"Đồng bộ dữ liệu thất bại",
+  "inits.master.subHeader":"Đồng bộ dữ liệu"
+}

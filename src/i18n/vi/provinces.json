@@ -1,0 +1,17 @@
+{
+  "provinces.code": "Mã Tỉnh/Thành phố ",
+  "provinces.placeholder.code": "Nhập mã Tỉnh/Thành phố ",
+  "provinces.name": "Tên Tỉnh/Thành phố ",
+  "provinces.placeholder.name": "Nhập tên Tỉnh/Thành phố ",
+  "provinces.status": "Trạng thái",
+  "provinces.placeholder.status": "Chọn trạng thái",
+  "provinces.priority": "Thứ tự ưu tiên",
+  "provinces.placeholder.priority": "Nhập thứ tự ưu tiên",
+  "provinces.master.subHeader": "Tỉnh/Thành phố ",
+  "provinces.master.header": "Đơn vị hành chính ",
+  "provinces.master.title": "Danh sách Tỉnh/Thành phố ",
+  " provinces .statusId": "Trạng thái",
+  " provinces .code": "Mã Tỉnh/Thành phố ",
+  " provinces .name": "Tên Tỉnh/Thành phố ",
+  " provinces .priority": "Thứ tự ưu tiên"
+}

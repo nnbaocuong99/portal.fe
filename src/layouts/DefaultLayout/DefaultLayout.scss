@@ -1,0 +1,99 @@
+/* Style for DefaultLayout.tsx */
+
+@import '../../styles/mixins';
+
+#root {
+  // font-family: 'SVN-Gilroy', sans-serif;
+  .app {
+    .app-body {
+      background-color: #f5f5f5;
+      > .main {
+        display: flex;
+        flex-direction: column;
+
+        > div:first-child {
+          > nav {
+            > .breadcrumb {
+              margin-bottom: 0;
+            }
+          }
+        }
+
+        > .app-content {
+          margin-top: 70px;
+          flex-grow: 1;
+          padding: 1rem;
+
+          @mixin app-content-card() {
+            min-height: calc(100vh - 55px - 2rem);
+            border-radius: 10px;
+            box-shadow: 0px 20px 100px rgba(0, 0, 0, 0.08);
+          }
+
+          > .page {
+            > .ant-spin-nested-loading {
+              height: 100%;
+
+              > .ant-spin-container {
+                height: 100%;
+
+                > .ant-card {
+                  @include app-content-card();
+                }
+              }
+            }
+
+            > .ant-card {
+              @include app-content-card();
+            }
+          }
+        }
+      }
+
+      .ant-layout-sider {
+        background: #ffffff;
+      }
+    }
+    .icon-nav-bar {
+      font-size: 20px;
+      color: #a3afbb;
+      padding-bottom: 12px !important;
+    }
+    .icon-nav-bar:hover {
+      color: #636d77;
+      cursor: pointer;
+    }
+
+    @mixin wrapper {
+      position: fixed;
+      z-index: 1000;
+      background: #f5f5f5;
+      padding-top: 17px;
+      height: 30px;
+    }
+
+    .header-wrapper {
+      @include wrapper();
+      margin-left: 221px;
+      width: calc(100% - 237px);
+    }
+
+    .header-wrapper-out {
+      @include wrapper();
+      margin-left: 16px;
+      width: calc(100% - 31px);
+    }
+
+    .header-in {
+      transform: translateX(-238px);
+      margin-left: 238px !important;
+      width: calc(100% - 237px);
+    }
+    .header-out {
+      width: calc(100% - 31px);
+    }
+  }
+}
+body {
+  // font-family: 'SVN-Gilroy', sans-serif;
+}

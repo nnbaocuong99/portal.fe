@@ -1,0 +1,15 @@
+{
+  "nations.code": "Mã Quốc gia ",
+  "nations.placeholder.code": "Nhập mã Quốc gia ",
+  "nations.name": "Tên Quốc gia ",
+  "nations.placeholder.name": "Nhập tên Quốc gia ",
+  "nations.status": "Trạng thái",
+  "nations.placeholder.status": "Chọn trạng thái",
+  "nations.updatedAt": "Ngày cập nhật",
+  "nations.master.subHeader": "Quốc gia ",
+  "nations.master.header": "Đơn vị hành chính ",
+  "nations.master.title": "Danh sách Quốc gia ",
+  " nations .statusId": "Trạng thái",
+  " nations .code": "Mã Quốc gia ",
+  " nations .name": "Tên Quốc gia "
+}

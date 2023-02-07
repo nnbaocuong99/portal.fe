@@ -1,0 +1,41 @@
+.permission-role-detai_content_table {
+    margin-top: 0px !important;
+}
+
+.role-content-table {
+    .ant-table-body {
+        height: 200px !important;
+        .ant-table-cell-ellipsis{
+            height: 70px!important;
+        }
+    }
+    .ant-table-title {
+        padding: 0px !important;
+    }
+}
+.role-content-table-action {
+    .ant-table-title {
+        padding: 0px !important;
+    }
+}
+.permission-role-detail_header_tile {
+    line-height: 48px;
+    height: 48px;
+    font-size: 18px;
+}
+.permission-role-detail_status_title {
+    font-size: 0.75em;
+    white-space: nowrap;
+    color: var(--palette-gray-70);
+}
+.label-status {
+    font-size: 0.75em;
+    white-space: nowrap;
+    color: var(--palette-gray-70);
+}
+.switch_status {
+    margin-top: var(--space-sm) !important;
+}
+.permission_tabs{
+    height: 450px;
+}

@@ -1,0 +1,21 @@
+{
+  "workflowSteps.master.subHeader": "Workflow step",
+  "workflowSteps.master.header": "Workflow Configuration",
+  "workflowSteps.workflowDefinition": "Workflow",
+  "workflowSteps.code": "Workflow step code",
+  "workflowSteps.placeholder.code": "Enter workflow step code",
+  "workflowSteps.name": "Workflow step name",
+  "workflowSteps.placeholder.name": "Enter workflow step name",
+  "workflowSteps.role": "Workflow step role",
+  "workflowSteps.placeholder.role": "Select workflow step role ",
+  "workflowSteps.status": "Workflow step status",
+  "workflowSteps.tabs.mailConfig": "",
+  "workflowSteps.titles.mailForRejectStep": "",
+  "workflowSteps.subjectMail": "",
+  "workflowSteps.titles.mailForTerminate": "",
+  "workflowSteps.tabs.notiConfig": "",
+  "workflowSteps.titles.notificationForReject": "",
+  "workflowSteps.placeholder.status": "Select workflow step status",
+  "workflowSteps.subjectMailForReject": "Workflow step subject mail for reject",
+  "workflowSteps.bodyMailForReject": "Workflow step body mail for reject"
+}

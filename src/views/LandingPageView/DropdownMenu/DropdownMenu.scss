@@ -1,0 +1,25 @@
+.dropdown__wrapper {
+  position: absolute;
+  top: 48px;
+  right: 48px;
+  background-color: #393939;
+  width: 200px;
+  .dropdown__container {
+    .dropdown__list-item {
+      display: flex;
+      flex-direction: column;
+      color: var(--color-white);
+      .dropdown__item {
+        height: 48px;
+        display: flex;
+        align-items: center;
+        font-weight: normal;
+        cursor: pointer;
+        &.dropdown__item-username {
+          font-weight: bold;
+          box-shadow: inset 0px -1px 0px #525252;
+        }
+      }
+    }
+  }
+}

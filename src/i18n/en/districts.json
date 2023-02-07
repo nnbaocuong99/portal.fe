@@ -1,0 +1,20 @@
+{
+  "districts.code": "District code",
+  "districts.placeholder.code": "Enter district code ",
+  "districts.name": "District name",
+  "districts.placeholder.name": "Enter district name",
+  "districts.status": "Status",
+  "districts.placeholder.status": "Select status",
+  "districts.priority": "Priority",
+  "districts.province": "Province",
+  "districts.placeholder.province": "Select province",
+  "districts.placeholder.priority": "Enter priority",
+  "districts.master.subHeader": "District",
+  "districts.master.header": "Administrative Divisions",
+  "districts.master.title": "Districts List",
+  " districts .statusId": "status",
+  " districts .code": "district code",
+  " districts .name": "district name",
+  " districts .priority": "priority",
+  " districts .provinceId": "province"
+}

@@ -1,0 +1,16 @@
+{
+  "workflowParameters.master.title": "Parameter",
+  "workflowParameters.master.header": "Workflow Configuration",
+  "workflowParameters.master.subHeader": "Parameter",
+  "workflowParameters.detail.title": "Edit Information",
+  "workflowParameters.code": "Parameter code",
+  "workflowParameters.placeholder.code": "Enter parameter code",
+  "workflowParameters.name": "Parameter name",
+  "workflowParameters.placeholder.name": "Enter parameter name",
+  "workflowParameters.workflowType": "Workflow type",
+  "workflowParameters.placeholder.workflowType": "Select workflow type",
+  "workflowParameters.workflowParameterType": "Workflow parameter type",
+  "workflowParameters.placeholder.workflowParameterType": "Select workflow parameter type",
+  "workflowParameters.workflowTypeId": "Workflow type",
+  "workflowParameters.workflowParameterTypeId": "Workflow type"
+}

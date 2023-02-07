@@ -1,0 +1,23 @@
+{
+  "menu.title.dashboard": "Dashbroad",
+  "menu.title.typography": "Typography",
+  "menu.title.color": "Color",
+  "menu.title.appUser": "Tài khoản",
+  "menu.title.site": "Phân hệ",
+  "menu.title.role": "Quản lý vai trò",
+  "menu.title.sidebar": "Sidebar",
+  "menu.title.organization": "Cây tổ chức",
+  "menu.title.aministrativeDivisions": "Đơn vị hành chính",
+  "menu.title.nation": "Quốc gia",
+  "menu.title.province": "Tỉnh thành",
+  "menu.title.district": "Quận huyện",
+  "menu.title.ward": "Xã phường",
+  "menu.workflows": "Cấu hình workflow",
+  "menu.workflowDirection": "Luồng thực hiện",
+  "menu.workflowSteps": "Bước thực hiện",
+  "menu.workflowDefinitions": "Thiết lập",
+  "menu.workflowParameters": "Parameter",
+  "menu.sites": "Phân hệ",
+  "menu.init": "Đồng bộ dữ liệu",
+  "menu.ldapConfiguration": "Cấu hình LDAP"
+}

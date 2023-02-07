@@ -1,0 +1,15 @@
+{
+  "nations.code": "Nation code",
+  "nations.placeholder.code": "Enter nation code",
+  "nations.name": "Nation name",
+  "nations.placeholder.name": "Enter nation name ",
+  "nations.status": "Status",
+  "nations.placeholder.status": "Select status",
+  "nations.updatedAt": "Updated at",
+  "nations.master.subHeader": "Nation",
+  "nations.master.header": "Administrative Divisions",
+  "nations.master.title": "Nations List",
+  " nations .statusId": "status",
+  " nations .code": "nation code ",
+  " nations .name": "nation name "
+}

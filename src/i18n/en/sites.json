@@ -1,0 +1,25 @@
+{
+  "sites.detail.title": "Site detail",
+  "sites.code": "Site code",
+  "sites.placeholder.code": "Enter site code",
+  "sites.name": "Site name",
+  "sites.placeholder.name": "Enter site name",
+  "sites.description": "Site description",
+  "sites.placeholder.description": "Enter site description",
+  "sites.logo": "Site logo",
+  "sites.placeholder.logo": "Upload site logo",
+  "sites.icon": "Site icon",
+  "sites.placeholder.icon": "Upload site icon",
+  "sites.isDisplay": "IsDisplay",
+  "sites.colorCode": "Site color code",
+  "sites.placeholder.colorCode": "Enter site color code",
+
+  "sites.master.title": "Site",
+  "sites.master.header": "Site",
+  "sites.master.subHeader": "Site",
+
+  "sites.filter.title": "Filter by code",
+  "sites.placeholder.status": "Select status",
+  "sites.title.preview": "Site detail",
+  "sites.placeholder.isDisplay": "Site IsDisplay"
+}

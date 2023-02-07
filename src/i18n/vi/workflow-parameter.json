@@ -1,0 +1,16 @@
+{
+  "workflowParameters.master.title": "Danh sách Parameter",
+  "workflowParameters.master.header": "Cấu hình workflow",
+  "workflowParameters.master.subHeader": "Parameter",
+  "workflowParameters.detail.title": "Chỉnh sửa thông tin",
+  "workflowParameters.code": "Mã trường",
+  "workflowParameters.placeholder.code": "Nhập mã trường",
+  "workflowParameters.name": "Tên trường",
+  "workflowParameters.placeholder.name": "Nhập tên trường",
+  "workflowParameters.workflowType": "Đối tượng áp dụng",
+  "workflowParameters.placeholder.workflowType": "Chọn đối tượng áp dụng",
+  "workflowParameters.workflowParameterType": "Kiểu dữ liệu",
+  "workflowParameters.placeholder.workflowParameterType": "Chọn kiểu dữ liệu",
+  "workflowParameters.workflowTypeId": "Đối tượng áp dụng",
+  "workflowParameters.workflowParameterTypeId": "Kiểu dữ liệu"
+}

@@ -1,0 +1,17 @@
+{
+  "provinces.code": "Province code",
+  "provinces.placeholder.code": "Enter province code ",
+  "provinces.name": "Province name ",
+  "provinces.placeholder.name": "Enter province name ",
+  "provinces.status": "Status",
+  "provinces.placeholder.status": "Select status",
+  "provinces.priority": "Priority",
+  "provinces.placeholder.priority": "Enter priority",
+  "provinces.master.subHeader": "Province ",
+  "provinces.master.header": "Administrative Divisions",
+  "provinces.master.title": "Provinces List",
+  " provinces .statusId": "status",
+  " provinces .code": "province code ",
+  " provinces .name": "province name",
+  " provinces .priority": "priority"
+}

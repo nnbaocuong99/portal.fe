@@ -1,0 +1,102 @@
+.notification-dropdown-menu {
+  width: 408px;
+  border: 1px solid var(--palette-gray-20) !important;
+  box-sizing: border-box;
+  box-shadow: -4px -4px 8px rgba(0, 0, 0, 0.1), 4px 4px 8px rgba(0, 0, 0, 0.1) !important;
+  left: auto !important;
+  right: 0 !important;
+  border-radius: 0px !important;
+  padding: 0 !important;
+
+  .notification-header-title {
+    height: 56px;
+    font-size: 14px;
+    font-weight: 700;
+
+    .ant-switch-checked {
+      background: #24a148;
+      border-color: #43d16c;
+    }
+  }
+  .box-notification-wrapper {
+    justify-content: center;
+
+    .box-notification {
+      height: 96px;
+      // background-color: var(--palette-white-100);
+      background-color: white;
+      box-shadow: inset 0px -1px 0px #e1e3e5;
+
+      &:hover {
+        cursor: pointer;
+        background-color: var(--palette-coolGray-10);
+      }
+
+      &.box-notification-unread {
+        // border-left: 4px solid #0f62fe !important;
+        box-shadow: inset 4px 0px 0px #0f62fe;
+      }
+
+      .box-notification-content {
+        .box-notification-content-left {
+          width: calc(100% - 40px);
+
+          .box-notification-text-first-row {
+            display: inline;
+            font-size: 14px;
+            font-weight: 700;
+            color: var(--palette-coolGray-100);
+          }
+
+          .box-notification-text-second-row {
+            display: inline;
+            font-size: 14px;
+            font-weight: 400;
+            color: #6f6f6f;
+          }
+
+          .box-notification-content-content {
+            font-size: 12px;
+            height: 60px;
+            color: #a19f9d;
+          }
+        }
+
+        .box-notification-content-right {
+          position: initial;
+          right: 0px;
+          height: 40px;
+          width: 40px;
+          align-items: center;
+          justify-content: center;
+
+          &:hover {
+            cursor: pointer;
+            background-color: var(--palette-coolGray-20);
+          }
+        }
+      }
+    }
+  }
+
+  .notification-footer {
+    align-items: center;
+    height: 56px;
+    font-size: 14px;
+    line-height: 16px;
+    color: var(--palette-black-100);
+
+    .notification-footer-view-all {
+      height: 100%;
+      color: #0f62fe;
+    }
+
+    .notification-footer-read-all {
+      height: 100%;
+
+      .button-content {
+        margin-bottom: 8px;
+      }
+    }
+  }
+}

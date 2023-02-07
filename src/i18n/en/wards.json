@@ -1,0 +1,23 @@
+{
+  "wards.code": "Ward code",
+  "wards.placeholder.code": "Enter ward code",
+  "wards.name": "Ward name",
+  "wards.placeholder.name": "Enter ward name",
+  "wards.status": "Stauts",
+  "wards.placeholder.status": "Select stauts",
+  "wards.priority": "Priority",
+  "wards.district": "District",
+  "wards.placeholder.district": "Select district",
+  "wards.province": "Province",
+  "wards.placeholder.province": "Select province",
+  "wards.placeholder.priority": "Enter priority",
+  "wards.master.subHeader": "Ward",
+  "wards.master.header": "Administrative Divisions",
+  "wards.master.title": "Wards List",
+  " wards .statusId": "stauts",
+  " wards .code": "ward code",
+  " wards .name": "ward name",
+  " wards .priority": "priority",
+  " wards .districtId": "district",
+  " wards .provinceId": "province"
+}

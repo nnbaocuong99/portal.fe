@@ -1,0 +1,30 @@
+/* Style for TreeNode.tsx */
+// .organization-tree{
+    .tree-item:hover {
+        background-color: blue;
+    }
+    
+    .tree-content-wrapper {
+        .icon {
+            color: blue;
+        }
+    }
+    
+    .expanded {
+        background-color: #ffffff;
+    }
+    
+    .sub-tree {
+        background-color: #ffffff;
+        overflow-y: unset;
+    }
+    
+    .tree-has-children:hover {
+        background-color: #ffffff;
+    }
+    
+    .tree-active {
+        background-color: rgba(115, 102,
+                255,
+                0.12);
+    }

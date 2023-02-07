@@ -1,0 +1,10 @@
+{
+    "notifications.master.subHeader": "Danh sách thông báo",
+    "notifications.master.header": "Tiện ích hệ thống",
+    "notifications.status": "Tình trạng đọc",
+    "notifications.read": "Đã đọc",
+    "notifications.unRead": "Chưa đọc",
+    "notifications.all": "Tất cả",
+    "notifications.master.title": "",
+    "notifications.placeholder.status": "Chọn trạng thái"
+}

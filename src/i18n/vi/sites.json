@@ -1,0 +1,28 @@
+{
+  "sites.detail.title": "Chỉnh sửa thông tin",
+  "sites.code": "Mã phân hệ",
+  "sites.placeholder.code": "Nhập mã phân hệ",
+  "sites.name": "Tên phân hệ",
+  "sites.placeholder.name": "Nhập tên phân hệ",
+  "sites.description": "Mô tả phân hệ",
+  "sites.placeholder.description": "Nhập mô tả phân hệ",
+  "sites.logo": "Logo phân hệ (trắng)",
+  "sites.placeholder.logo": "Upload logo phân hệ",
+  "sites.icon": "Icon phân hệ (trắng)",
+  "sites.placeholder.icon": "Upload icon phân hệ",
+  "sites.isDisplay": "Hiển thị",
+  "sites.colorCode": "Mã màu ",
+  "sites.placeholder.colorCode": "Nhập mã màu ",
+
+  "sites.master.title": "Danh sách phân hệ",
+  "sites.master.header": "Phân hệ",
+  "sites.master.subHeader": "Phân hệ",
+
+  "sites.filter.title": "Tìm kiếm theo mã",
+  "sites.placeholder.status": "Chọn trạng thái",
+  "sites.title.preview": "Thông tin chi tiết",
+  "sites.placeholder.isDisplay": "Nhập icon phân hệ",
+  "sites.colorfulIcon": "Icon phân hệ (có màu)",
+  "sites.colorfulLogo": "Logo phân hệ (có màu)",
+  "sites.siteType": "Nhóm phân hệ"
+}

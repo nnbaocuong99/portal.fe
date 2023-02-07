@@ -1,0 +1,11 @@
+{
+  "ldapConfiguration.detail.title": "Cấu hình LDAP",
+  "ldapConfiguration._CONNECTION_STRING": "Link truy cập LDAP",
+  "ldapConfiguration._BASE_DN": "Base Domain",
+  "ldapConfiguration._ADMIN_USERNAME": "Tên đăng nhập",
+  "ldapConfiguration._ADMIN_PASSWORD": "Mật khẩu",
+  "ldapConfiguration.placeholder._CONNECTION_STRING": "Nhập link truy cập LDAP",
+  "ldapConfiguration.placeholder._BASE_DN": "Nhập base Domain",
+  "ldapConfiguration.placeholder._ADMIN_USERNAME": "Nhập tên đăng nhập",
+  "ldapConfiguration.placeholder._ADMIN_PASSWORD": "Nhập mật khẩu"
+}

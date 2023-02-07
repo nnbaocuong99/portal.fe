@@ -1,0 +1,39 @@
+.organization__card {
+    .ant-card-body {
+        padding: 16px 0px 16px 0px !important;
+    }
+    .ant-tree.ant-tree-directory .ant-tree-treenode .ant-tree-switcher {
+        display: none;
+    }
+}
+
+.organization__master {
+    height: calc(100vh - 180px);
+    .organization__card__title {
+        font-size: 14px;
+        font-weight: 700;
+        color: var(--palette-gray-100);
+    }
+        .ant-tree.ant-tree-directory .ant-tree-treenode .ant-tree-node-content-wrapper.ant-tree-node-selected{
+        background: var(--palette-white-100) !important;
+        color: var(--palette-gray-100) !important;
+    }
+    .ant-tree-indent{
+        background: var(--palette-white-100) !important;
+    }
+    .tree-active {
+        background-color:  rgba(115, 102, 255, 0.12);;
+    }
+    .ant-tree .ant-tree-node-content-wrapper{
+        background: var(--palette-white-100) !important;
+
+    }
+}
+
+.organization_app_user_table {
+    .ant-table-pagination.ant-pagination {
+        display: none;
+    }
+}
+
+

@@ -1,0 +1,10 @@
+{
+    "notifications.master.subHeader": "Notifications",
+    "notifications.master.header": "System Utilities",
+    "notifications.status": "Status",
+    "notifications.read": "Read",
+    "notifications.unRead": "Unread",
+    "notifications.master.title": "",
+    "notifications.all": "All",
+    "notifications.placeholder.status": "Select status"
+}

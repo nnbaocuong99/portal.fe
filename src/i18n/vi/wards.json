@@ -1,0 +1,23 @@
+{
+  "wards.code": "Mã Xã/phường ",
+  "wards.placeholder.code": "Nhập mã Xã/phường ",
+  "wards.name": "Tên Xã/phường ",
+  "wards.placeholder.name": "Nhập tên Xã/phường ",
+  "wards.status": "Trạng thái",
+  "wards.placeholder.status": "Chọn Trạng thái",
+  "wards.priority": "Thứ tự ưu tiên",
+  "wards.district": "Quận/Huyện",
+  "wards.placeholder.district": "Chọn Quận/Huyện",
+  "wards.province": "Tỉnh/Thành phố",
+  "wards.placeholder.province": "Chọn Tỉnh/Thành phố",
+  "wards.placeholder.priority": "Nhập Thứ tự ưu tiên",
+  "wards.master.subHeader": "Xã/phường ",
+  "wards.master.header": "Đơn vị hành chính ",
+  "wards.master.title": "Danh sách Xã/phường ",
+  " wards .statusId": "Trạng thái",
+  " wards .code": "Mã Xã/phường ",
+  " wards .name": "Tên Xã/phường ",
+  " wards .priority": "Thứ tự ưu tiên",
+  " wards .districtId": "Quận/Huyện",
+  " wards .provinceId": "Tỉnh/Thành phố"
+}

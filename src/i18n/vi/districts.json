@@ -1,0 +1,20 @@
+{
+  "districts.code": "Mã Quận/Huyện ",
+  "districts.placeholder.code": "Nhập mã Quận/Huyện ",
+  "districts.name": "Tên Quận/Huyện ",
+  "districts.placeholder.name": "Nhập tên Quận/Huyện ",
+  "districts.status": "Trạng thái",
+  "districts.placeholder.status": "Chọn Trạng thái",
+  "districts.priority": "Thứ tự ưu tiên",
+  "districts.province": "Tỉnh/Thành phố",
+  "districts.placeholder.province": "Chọn Tỉnh/Thành phố",
+  "districts.placeholder.priority": "Nhập Thứ tự ưu tiên",
+  "districts.master.subHeader": "Quận/Huyện ",
+  "districts.master.header": "Đơn vị hành chính ",
+  "districts.master.title": "Danh sách Quận/Huyện ",
+  " districts .statusId": "Trạng thái",
+  " districts .code": "Mã Quận/Huyện ",
+  " districts .name": "Tên Quận/Huyện ",
+  " districts .priority": "Thứ tự ưu tiên",
+  " districts .provinceId": "Tỉnh/Thành phố"
+}

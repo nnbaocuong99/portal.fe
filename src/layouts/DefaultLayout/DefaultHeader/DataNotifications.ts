@@ -1,0 +1,173 @@
+import { UserNotification } from "models/UserNotification";
+export const notifications: UserNotification[] = [
+  {
+    id: 1,
+    content: "",
+    senderId: 1,
+    recipientId: 1,
+    unread: true,
+    sender: {
+      id: 1,
+      username: "huongnt",
+      displayName: "Nguyễn Thị Hương",
+    },
+    recipient: {
+      id: 1,
+      username: "vudt",
+      displayName: "Đặng Tuấn Vũ",
+    },
+  },
+  {
+    id: 2,
+    content: "",
+    senderId: 1,
+    recipientId: 1,
+    unread: true,
+    sender: {
+      id: 1,
+      username: "huongnt",
+      displayName: "Nguyễn Thị Hương",
+    },
+    recipient: {
+      id: 1,
+      username: "vudt",
+      displayName: "Đặng Tuấn Vũ",
+    },
+  },
+  {
+    id: 3,
+    content: "",
+    senderId: 1,
+    recipientId: 1,
+    unread: true,
+    sender: {
+      id: 1,
+      username: "huongnt",
+      displayName: "Nguyễn Thị Hương",
+    },
+    recipient: {
+      id: 1,
+      username: "vudt",
+      displayName: "Đặng Tuấn Vũ",
+    },
+  },
+  {
+    id: 4,
+    content: "",
+    senderId: 1,
+    recipientId: 1,
+    unread: false,
+    sender: {
+      id: 1,
+      username: "huongnt",
+      displayName: "Nguyễn Thị Hương",
+    },
+    recipient: {
+      id: 1,
+      username: "vudt",
+      displayName: "Đặng Tuấn Vũ",
+    },
+  },
+  {
+    id: 5,
+    content: "",
+    senderId: 1,
+    recipientId: 1,
+    unread: false,
+    sender: {
+      id: 1,
+      username: "huongnt",
+      displayName: "Nguyễn Thị Hương",
+    },
+    recipient: {
+      id: 1,
+      username: "vudt",
+      displayName: "Đặng Tuấn Vũ",
+    },
+  },
+  {
+    id: 6,
+    content: "",
+    senderId: 1,
+    recipientId: 1,
+    unread: true,
+    sender: {
+      id: 1,
+      username: "huongnt",
+      displayName: "Nguyễn Thị Hương",
+    },
+    recipient: {
+      id: 1,
+      username: "vudt",
+      displayName: "Đặng Tuấn Vũ",
+    },
+  },
+  {
+    id: 7,
+    content: "",
+    senderId: 1,
+    recipientId: 1,
+    unread: true,
+    sender: {
+      id: 1,
+      username: "huongnt",
+      displayName: "Nguyễn Thị Hương",
+    },
+    recipient: {
+      id: 1,
+      username: "vudt",
+      displayName: "Đặng Tuấn Vũ",
+    },
+  },
+  {
+    id: 8,
+    content: "",
+    senderId: 1,
+    recipientId: 1,
+    unread: true,
+    sender: {
+      id: 1,
+      username: "huongnt",
+      displayName: "Nguyễn Thị Hương",
+    },
+    recipient: {
+      id: 1,
+      username: "vudt",
+      displayName: "Đặng Tuấn Vũ",
+    },
+  },
+  {
+    id: 9,
+    content: "",
+    senderId: 1,
+    recipientId: 1,
+    unread: true,
+    sender: {
+      id: 1,
+      username: "huongnt",
+      displayName: "Nguyễn Thị Hương",
+    },
+    recipient: {
+      id: 1,
+      username: "vudt",
+      displayName: "Đặng Tuấn Vũ",
+    },
+  },
+  {
+    id: 10,
+    content: "",
+    senderId: 1,
+    recipientId: 1,
+    unread: true,
+    sender: {
+      id: 1,
+      username: "huongnt",
+      displayName: "Nguyễn Thị Hương",
+    },
+    recipient: {
+      id: 1,
+      username: "vudt",
+      displayName: "Đặng Tuấn Vũ",
+    },
+  },
+];

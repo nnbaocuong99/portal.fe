@@ -1,0 +1,27 @@
+/* Style for Tree.tsx */
+
+.organization_tree {
+    .tree-container {
+        box-shadow: none !important;
+        max-width: 100% !important;
+        .ant-tree-list {
+            background-color: var(--palette-white-100) !important;
+        }
+    }
+    button {
+        background-color: transparent;
+        border: none;
+    }
+    height: 51vh;
+    overflow-y: auto;
+    .ant-tree.ant-tree-directory .ant-tree-treenode .ant-tree-node-content-wrapper.ant-tree-node-selected{
+        background: var(--palette-white-100) !important;
+        color: var(--palette-gray-100) !important;
+    }
+    .ant-tree-indent{
+        background: var(--palette-white-100) !important;
+    }
+    .tree-active {
+        background-color:  rgba(115, 102, 255, 0.12);;
+    }
+}
